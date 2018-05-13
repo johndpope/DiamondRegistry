@@ -1,4 +1,4 @@
-# DiamondRegistry
+# HugsRegistry
 This repository contains an implementation of Dexio's Ethereum-based diamond registry. This application uses [ERC721](https://github.com/ethereum/eips/issues/721) smart contracts as assets to control write permissions to an IPFS document store. With this system for transferable write permissions in place, we provide a product for securely sharing a verifiable record of diamond data.
 
 # Incentives
